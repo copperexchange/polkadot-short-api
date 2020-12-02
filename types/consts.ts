@@ -28,6 +28,7 @@ export interface AugmentedConsts<ApiType extends ApiTypes> {
 }
 
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
+// @ts-ignore
 export interface AugmentedConst<ApiType extends ApiTypes> {
     meta: ModuleConstantMetadataLatest;
 }
