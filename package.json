@@ -2,7 +2,7 @@
   "name": "@polkadot/api",
   "version": "2.7.1",
   "description": "Promise and RxJS wrappers around the Polkadot JS RPC",
-  "main": "lib/index.js",
+  "main": "index.js",
   "scripts": {
     "build": "tsc"
   },
