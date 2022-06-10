@@ -14,7 +14,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@polkadot/types": "3.10.2",
-    "@polkadot/keyring": "5.7.1"
+    "@polkadot/keyring": "^5.7.1"
   },
   "devDependencies": {
     "typescript": "^4.1.2"
