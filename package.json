@@ -13,7 +13,7 @@
   ],
   "license": "Apache-2.0",
   "dependencies": {
-    "@polkadot/types": "3.10.2",
+    "@polkadot/types": "3.11.1",
     "@polkadot/keyring": "^5.7.1"
   },
   "devDependencies": {
